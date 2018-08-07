@@ -1,4 +1,4 @@
-# awesome-wireguard
+# Awesome-WireGuard
 
 A curated list of Wireguard Information.
 
